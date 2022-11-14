@@ -1,5 +1,5 @@
 import "../components/HeroImg.js";
-import "../components/HeroImg.Styles.css";
+import "../components/HeroImgStyles.css";
 
 import React from 'react';
 

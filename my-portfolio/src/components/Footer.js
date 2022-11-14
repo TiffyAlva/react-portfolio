@@ -30,9 +30,8 @@ const Footer = () => {
             </div>
             </div>
           <div className="right">
-            <h4>About the company OR You OPTIONAL
+            <h4>About the company OR You OPTIONAL</h4>
               <p>nddf dfjdjfh djdfednfnejfe djdfednfnejfe</p>
-            </h4>
             <div className="social">
             <FaLinkedin size={30} style={{ color: "#fff", marginRight: "1rem" }} />
             <FaGithub size={30} style={{ color: "#fff", marginRight: "1rem" }} />
