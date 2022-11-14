@@ -10,7 +10,7 @@ const Resume = () => {
   return (
     <div>
       <Navbar/>
-      <HeroImg2 heading= "RESUME." text="Here's my resume"/>
+      <HeroImg2 heading= "RESUME." text="View resume"/>
       <Footer/>
     </div>
   )
