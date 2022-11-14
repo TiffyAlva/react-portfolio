@@ -20,6 +20,10 @@
     font-weight: 500;
 }
 
+.hamburger{
+display: initial;
+}
+
 /*nav menu*/
 @media screen and (max-width: 2040px) {
     .nav-menu{
@@ -32,8 +36,14 @@
         /*"portfolio"*/
         position: absolute;
         top: 0;
-        left: 0;
+        /*nav hidden*/
+        left: -100%;
         z-index: -3;
+        transition: 0.3s;
+    }
+
+    .nav-menu.active{
+        left: 0;
     }
 
     .nav-menu li {
