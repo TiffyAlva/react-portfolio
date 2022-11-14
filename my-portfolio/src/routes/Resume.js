@@ -1,9 +1,17 @@
+//Resume //modify
 import React from 'react'
+
+import Navbar from '../components/Navbar';
+import Footer from '../components/Footer';
+import HeroImg2 from '../components/HeroImg2';
+
 
 const Resume = () => {
   return (
     <div>
-      <div>Resume</div>
+      <Navbar/>
+      <HeroImg2 heading= "RESUME." text="Here's my resume"/>
+      <Footer/>
     </div>
   )
 }

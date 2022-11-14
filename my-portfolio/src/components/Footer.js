@@ -30,7 +30,7 @@ const Footer = () => {
             </div>
             </div>
           <div className="right">
-            <h4>About the company OR You OPTIONAL</h4>
+            <h4>About Yourself</h4>
               <p>nddf dfjdjfh djdfednfnejfe djdfednfnejfe</p>
             <div className="social">
             <FaLinkedin size={30} style={{ color: "#fff", marginRight: "1rem" }} />
