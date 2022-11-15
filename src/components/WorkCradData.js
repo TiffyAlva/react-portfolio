@@ -13,7 +13,7 @@ const ProjectCardData = [
         imgsrc: pro1,
         title: "Employee Tracker",
         text: "This application allows users to view, add, update employees and delete employees using MySQL, Node.js, and JavaScript.",
-        view: "https://drive.google.com/file/d/1S1xIp2N9fyFjVM-QXlITTH5aFEQVLDM0/view?usp=sharing",
+        URL: "https://drive.google.com/file/d/1S1xIp2N9fyFjVM-QXlITTH5aFEQVLDM0/view?usp=sharing",
         //OR Source
 
     },
