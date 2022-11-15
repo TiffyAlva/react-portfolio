@@ -3,17 +3,20 @@ https://tiffyalva.github.io/react-portfolio-challenge-20/
 
 
 ## Visual of my React Portfolio:
-- Home Page
+- <b>Home Page</b>
 ![](./src/assets/PortfolioMockUp1.jpg)
 
-- Projects
+- <b>Projects</b>
 ![](./src/assets/PortfolioMockUp2.jpg)
 
-- Nav
+- <b>Nav</b>
 ![](./src/assets/PortfolioMockUp3.jpg)
 
-- Contact
+- <b>Contact</b>
 ![](./src/assets/PortfolioMockUp4.jpg)
+
+- <b>Resume</b> 
+![](./src/assets/PortfolioMockUp5.jpg)
 
 
 
