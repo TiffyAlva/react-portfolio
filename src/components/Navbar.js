@@ -1,5 +1,6 @@
 import "../components/Navbar.js";
 import "../components/NavbarStyles.css";
+import Home from "./routes/Home";
 
 
 import React, {useState} from 'react'
@@ -30,7 +31,7 @@ const Navbar = () => {
         </Link>  
         <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li>
-                <Link to="/home">Home</Link>
+                <Link to="/">Home</Link>
             </li>
             <li>
                 <Link to="/project">Project</Link>
