@@ -1,6 +1,6 @@
 import "../components/Navbar.js";
 import "../components/NavbarStyles.css";
-import Home from "./routes/Home";
+
 
 
 import React, {useState} from 'react'
