@@ -10,10 +10,14 @@ const Resume = () => {
   return (
     <div>
       <Navbar/>
-      <HeroImg2 heading= "RESUME." text="View resume"/>
+      <HeroImg2 heading= "RESUME." text="View resume"/> 
       <Footer/>
     </div>
   )
 }
 
 export default Resume;
+
+
+
+//Add your resume to the next page on line 13

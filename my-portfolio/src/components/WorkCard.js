@@ -1,4 +1,4 @@
-//My work
+//Work Card
 import "./WorkCardStyles.css";
 
 

@@ -30,8 +30,8 @@ const Footer = () => {
             </div>
             </div>
           <div className="right">
-            <h4>About Yourself</h4>
-              <p>nddf dfjdjfh djdfednfnejfe djdfednfnejfe</p>
+            <h4><p>Add your Web Url</p></h4>
+              <p>Copyright ©2022 Tiffany Alvarez</p>
             <div className="social">
             <FaLinkedin size={30} style={{ color: "#fff", marginRight: "1rem" }} />
             <FaGithub size={30} style={{ color: "#fff", marginRight: "1rem" }} />
