@@ -1,9 +1,20 @@
-## Visual of my Portfolio:
+## Deployment Link:
+https://tiffyalva.github.io/react-portfolio-challenge-20/
+
+
+## Visual of my React Portfolio:
+- Home Page
 ![](./src/assets/PortfolioMockUp1.jpg)
 
+- Projects
 ![](./src/assets/PortfolioMockUp2.jpg)
 
+- Nav
 ![](./src/assets/PortfolioMockUp3.jpg)
+
+- Contact
+![](./src/assets/PortfolioMockUp4.jpg)
+
 
 
 
