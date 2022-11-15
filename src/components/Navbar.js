@@ -31,7 +31,7 @@ const Navbar = () => {
         </Link>  
         <ul className={click ? "nav-menu active" : "nav-menu"}>
             <li>
-                <Link to="/">Home</Link>
+                <Link to="/react-portfolio-challenge-20">Home</Link>
             </li>
             <li>
                 <Link to="/project">Project</Link>
