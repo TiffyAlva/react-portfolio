@@ -1,4 +1,4 @@
-//Resume //modify
+//Resume //modify later
 import React from 'react'
 
 import Navbar from '../components/Navbar';

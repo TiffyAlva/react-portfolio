@@ -1,3 +1,4 @@
+//Hero Image
 import "../components/HeroImg.js";
 import "../components/HeroImgStyles.css";
 
