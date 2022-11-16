@@ -1,6 +1,8 @@
 ## Deployment Link:
 https://tiffyalva.github.io/react-portfolio-challenge-20/
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/e5e8468f-c17c-4088-b0f9-d1ff8ce28ecc/deploy-status)](https://app.netlify.com/sites/tiffyalva-portfolio/deploys)
+
 
 ## Visual of my React Portfolio:
 - <b>Home Page</b>

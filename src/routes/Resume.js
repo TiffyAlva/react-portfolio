@@ -6,13 +6,32 @@ import Footer from '../components/Footer';
 import HeroImg2 from '../components/HeroImg2';
 
 
+
+
+
 const Resume = () => {
+
+  
   return (
     <div>
       <Navbar/>
-      <HeroImg2 heading= "RESUME." text="View resume"/> 
+      <HeroImg2 heading= "RESUME." text= "view resume"/>
       <Footer/>
+
+      {/* <a href= "TiffanyResume.pdf" //Resume Download
+          download="TiffanyResume.pdf"></a> */}
+         
     </div>
+
+    
+
+
+
+
+
+    
+
+
   )
 }
 
@@ -20,4 +39,5 @@ export default Resume;
 
 
 
-//Add your resume to the next page on line 13
+
+// //Add your resume to the next page on line 13

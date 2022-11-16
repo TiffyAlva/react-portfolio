@@ -11,10 +11,11 @@ const About = () => {
   return (
     <div>
       <Navbar/>
-      <HeroImg2 heading="ABOUT." text="I'm a friendly Full Stack Developer"/>
+      <HeroImg2 heading="ABOUT." text=""/>
       <AboutContent/>
       <Footer/>
     </div>
+    
   )
 }
 
