@@ -20,7 +20,7 @@ const Footer = () => {
             </div>
             <div className="phone">
             <h4><FaPhone size={20} style={{ color: "#fff", marginRight: "2rem" }} />
-             347-556-4014</h4>
+             ###-###-###</h4>
 
              </div>
             <div className="email">
@@ -30,7 +30,7 @@ const Footer = () => {
             </div>
             </div>
           <div className="right">
-            <h4><p>Add your Web Url</p></h4>
+            {/* <h4><p>Add your Web Url</p></h4> */}
               <p>Copyright ©2022 Tiffany Alvarez</p>
             <div className="social">
             <FaLinkedin size={30} style={{ color: "#fff", marginRight: "1rem" }} />

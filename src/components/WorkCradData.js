@@ -93,7 +93,7 @@ const ProjectCardData = [
 
     {
         imgsrc: pro9,
-        title: "Wether Dashboard",
+        title: "Weather Dashboard",
         text: "Users can see the weather outlook for multiple cities, so that users can plan a trip accordingly.",
         view: "url.com",
         //OR Source //Add Url
