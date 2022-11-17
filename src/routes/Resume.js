@@ -13,14 +13,16 @@ import ResumeDoc from '../components/ResumeDoc';
 
 
 const Resume = () => {
-
+    const resumePdf = 'TiffanyResume.pdf';
   
   return (
     <div>
       <Navbar/>
       <HeroImg2 heading= "RESUME." text= "view resume"/>
-      <ResumeDoc/>
+      <ResumeDoc/> 
       <Footer/>
+
+      
       
       
 
@@ -28,6 +30,15 @@ const Resume = () => {
           download="TiffanyResume.pdf"></a> */}
          
     </div>
+
+
+// heading= "RESUME." text= "view resume"/>
+
+
+          
+
+
+
 
     
 
