@@ -11,7 +11,8 @@
     
 }
 .download-btn:hover{
-    background-color: white !important;
-    color: var(--dark-orange) !important;
-    border-color: var(--dark-orange) !important;
+    background-color: burlywood !important;
+    color: var(--dark ) !important;
+    border-color: orangered;
+
 }
