@@ -11,7 +11,7 @@ const About = () => {
   return (
     <div>
       <Navbar/>
-      <HeroImg2 heading="ABOUT." text=""/>
+      <HeroImg2 heading="About Me." text="Get to know a little bit about myself"/>
       <AboutContent/>
       <Footer/>
     </div>

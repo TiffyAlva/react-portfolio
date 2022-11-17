@@ -13,7 +13,7 @@ const AboutContent = () => {
       <img src={ME1}
        className="img" alt="true"/>
       <h1>Who Am I?</h1>
-      <p>I'm a Full Stack Developer. I just graduated from Coding Bootcamp. </p>
+      <p>Tiffany Alvarez is a Full Stack Developer and she just graduated from Coding Bootcamp. Tiffany looks forward to continue learning about coding. </p>
       <Link to="/contact">
         <button className="btn">Contact</button>
       </Link>
