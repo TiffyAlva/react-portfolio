@@ -18,7 +18,7 @@ const Resume = () => {
   return (
     <div>
       <Navbar/>
-      <HeroImg2 heading= "RESUME." text= "view resume"/>
+      <HeroImg2 heading= "RESUME." text= ""/>
       <ResumeDoc/> 
       <Footer/>
 
