@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/react-portfolio-challenge-20/static/css/main.7e2a0b35.css",
+    "main.css": "/react-portfolio-challenge-20/static/css/main.1c2aba10.css",
     "main.js": "/react-portfolio-challenge-20/static/js/main.3454c39b.js",
     "static/media/project9.jpg": "/react-portfolio-challenge-20/static/media/project9.b359b1746bfba2997bc5.jpg",
     "static/media/project8.jpg": "/react-portfolio-challenge-20/static/media/project8.0a221d6bf01d434630fd.jpg",
@@ -14,11 +14,11 @@
     "static/media/project3.jpg": "/react-portfolio-challenge-20/static/media/project3.e21b729717dc62afdbb8.jpg",
     "static/media/project6.jpg": "/react-portfolio-challenge-20/static/media/project6.c6b44add39739dc85dac.jpg",
     "index.html": "/react-portfolio-challenge-20/index.html",
-    "main.7e2a0b35.css.map": "/react-portfolio-challenge-20/static/css/main.7e2a0b35.css.map",
+    "main.1c2aba10.css.map": "/react-portfolio-challenge-20/static/css/main.1c2aba10.css.map",
     "main.3454c39b.js.map": "/react-portfolio-challenge-20/static/js/main.3454c39b.js.map"
   },
   "entrypoints": [
-    "static/css/main.7e2a0b35.css",
+    "static/css/main.1c2aba10.css",
     "static/js/main.3454c39b.js"
   ]
 }
