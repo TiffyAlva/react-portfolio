@@ -14,6 +14,11 @@ const ProjectCardData = [
         title: "Employee Tracker",
         text: "This application allows users to view, add, update employees and delete employees using MySQL, Node.js, and JavaScript.",
         view: "https://drive.google.com/file/d/1S1xIp2N9fyFjVM-QXlITTH5aFEQVLDM0/view?usp=sharing",
+        // ghLink:"https://github.com/TiffyAlva/employee-tracker-challenge-12.git",
+        // demoLink:"https://drive.google.com/file/d/1S1xIp2N9fyFjVM-QXlITTH5aFEQVLDM0/view?usp=sharing"
+
+        
+    
         //OR Source
 
     },
