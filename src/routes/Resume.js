@@ -25,8 +25,8 @@ const Resume = () => {
       
       
       
-
-      {/* <a href= "TiffanyResume.pdf" //Resume Download
+{/* 
+      <a href= "TiffanyResume.pdf" //Resume Download
           download="TiffanyResume.pdf"></a> */}
          
     </div>
